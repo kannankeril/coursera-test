@@ -37,7 +37,9 @@ body {
 	border: 0;
 }
 
-
+#nav-list {
+    background-color: #6E6568;
+}
 #nav-list > li a:hover, #nav-list > li a:focus {
 	color: #FB0;
 }
