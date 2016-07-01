@@ -6,12 +6,18 @@ body {
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #FFF;
 }
-
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #A52A2A;
+}
 #header-nav {
 	background-color: #A52A2A;
 	border-radius: 0;
 	border: 0;
 	padding-bottom: 5px;
+}
+
+.navbar-header > button {
+    background-color: #A52A2A;
 }
 
 .navbar-brand h1 {
@@ -25,7 +31,6 @@ body {
 }
 
 #collapsable-nav {
-	background-color: #BF1D1D;
 	border: 0;
 }
 
@@ -40,9 +45,22 @@ body {
 .panel-body {
 	background-color: #A52A2A;
 	color: #FFF;
+    padding: 0px 0px 0px 10px;
 	margin-top: 0;
-	padding: 0;
 }
-h3 > p > .sectionTitle {
-	padding-top: 0;
+
+
+.sectionTitle {
+    margin-top: 0;
+}
+
+#main-content {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+@media (min-width: 750px) {
+    .container {
+        width:auto;
+    }
 }
