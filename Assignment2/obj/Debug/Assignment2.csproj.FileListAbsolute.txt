@@ -1,6 +1,0 @@
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\bin\Assignment2.dll.config
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\bin\Assignment2.dll
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\bin\Assignment2.pdb
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\obj\Debug\Assignment2.dll
-C:\Users\abraham\coursera-test\Single Page Web Applications with AngularJS\assignments\coursera-test\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
